@@ -1,2 +1,2 @@
 # Medical-Record-Generation
-Medical Record Generation
+需将Medical Record Generation.py文件中将api_key设置成你的GPT-4的api，提示将generate_medical_record()函数里的additional_prompts进行编辑，如病历格式的学习范本，以及一些相关要求。以下是一个视频展示：
